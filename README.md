@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Micael.
+
+🔭 Right now, I am working as a full stack developer at PVS S.A, Buenos Aires, La Plata.
+In my profile you will find works developed in different languages, during my training as a programmer.
+Every day I keep training in the new technologies most required.
+
+📚 My Skills: PHP, HTML, JavaScript, Jquery, JAVA, C, MySQL, Database design.
+
+💬 Contact me: 
+                📫 jotarmicael@gmail.com
+                🔗 https://www.linkedin.com/in/micael-jotar-26033a1b9/
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotarMicael&show_icons=true&theme=radical)
+
 
 <!--
 **jotarMicael/jotarMicael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
