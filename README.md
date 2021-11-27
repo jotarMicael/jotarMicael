@@ -11,9 +11,7 @@ Every day I keep training in the new technologies most required.
                 🔗 https://www.linkedin.com/in/micael-jotar-26033a1b9/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotarMicael&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotarMicael)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotarMicael&show_icons=true&theme=radical&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotarMicael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
