@@ -4,7 +4,7 @@
 In my profile you will find works developed in different languages, during my training as a programmer.
 Every day I keep training in the new technologies most required.
 
-📚 My Skills: PHP, HTML, JavaScript, Jquery, JAVA, C, MySQL, Database design.
+📚 My Skills: PHP, HTML, JavaScript, Angular.js, Vue.js, JAVA, Spring, API Rest, C, MySQL, Database Managment.
 
 💬 Contact me: 
                 📫 jotarmicael@gmail.com
