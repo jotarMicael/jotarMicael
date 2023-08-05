@@ -5,10 +5,10 @@ In my profile you will find works developed in different languages, during my tr
 Every day I keep training in the new technologies most required.
 
 📚 My Skills: 
-            PHP, HTML, JavaScript, 
-            Angular.js, Vue.js, JAVA, 
-            Spring, API Rest, C, MySQL, 
-            Python, Database Managment.
+            PHP, JavaScript, 
+            Angular, Vue.js, JAVA, 
+            Spring, API Rest,MySQL, 
+            Python.
 
 💬 Contact me: 
                 📫 jotarmicael@gmail.com
