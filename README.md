@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Micael.
 
-🔭 Right now, I am working as a full stack developer at PVS S.A, Buenos Aires, La Plata.
+🔭 Right now, I am working as a full stack developer at CGI, Spain, Madrid.
 In my profile you will find works developed in different languages, during my training as a programmer.
 Every day I keep training in the new technologies most required.
 
